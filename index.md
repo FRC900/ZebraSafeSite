@@ -4,9 +4,11 @@ layout: default
 
 #### Our Pit is a 5S Zone!
 
-![5S](https://team900.org/ZebraSafeSite/assets/images/5S-Pitspace.jpg) <!-- .element height="50%" width="50%" -->
-
-
+*   Sort - Organization is key in our pit.
+*   Set in Order - We arrange and label everything.
+*   Shine - We keep everything as clean as we can.
+*   Standardize - We've standardized our cleanup with checklists.
+*   Sustain - We train new members to sustain our efforts.
 
 #### Header 4
 
