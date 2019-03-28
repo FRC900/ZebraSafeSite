@@ -4,11 +4,11 @@ layout: default
 
 #### Our Pit is a 5S Zone!
 
-*   Sort - Organization is key in our pit.
-*   Set in Order - We arrange and label everything.
-*   Shine - We keep everything as clean as we can.
-*   Standardize - We've standardized our cleanup with checklists.
-*   Sustain - We train new members to sustain our efforts.
+*   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Sort - Organization is key in our pit.
+*   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Set in Order - We arrange and label everything.
+*   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Shine - We keep everything as clean as we can.
+*   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Standardize - We've standardized our cleanup with checklists.
+*   ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Sustain - We train new members to sustain our efforts.
 
 #### Header 4
 
