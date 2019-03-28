@@ -2,9 +2,11 @@
 layout: default
 ---
 
-### Our Pit is a 5S Zone!
+#### Our Pit is a 5S Zone!
 
 ![5S](https://team900.org/ZebraSafeSite/assets/images/5S-Pitspace.jpg)
+
+
 
 #### Header 4
 
