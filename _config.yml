@@ -1,5 +1,7 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: ZebraSafe
+description: Organizational and MSDS Site 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
