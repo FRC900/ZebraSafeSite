@@ -32,9 +32,29 @@ https://elementfire.com/
 
 * * *
 #### First Aid
-All members are told to download the Red Cross First Aid app. 
+All members are told to download the Red Cross First Aid app and our mentors have been through basic first aid training. 
 
-We keep a supply of Nitrile non-latex gloves in sizes ranging from S-L to accomodate all students. 
+Our First-Aid stock includes
+* Bandaids (Misc. sizes)
+* Anti-Septic Gel
+* CPR Rescue Mask
+* Wet Wipes
+* Gloves
+* Masks
+* Benadryll
+* Burn Gel 
+* Hand Sanitizer
+* Tissues
+* Sanitary Pads
+* Hearing Protection
+* Eye care packets
+* Cough Drops
+* Hair Ties
+* Gauze Pads
+* Cotton Swabs
+* Medical Tape
+* Instant ice compress
+* Advil 
 
 * * *
 
