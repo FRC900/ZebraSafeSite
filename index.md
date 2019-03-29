@@ -33,6 +33,7 @@ https://elementfire.com/
 * * *
 #### First Aid
 All members are told to download the Red Cross First Aid app. 
+
 We keep a supply of Nitrile non-latex gloves in sizes ranging from S-L to accomodate all students. 
 
 * * *
