@@ -63,7 +63,7 @@ The following are links to MSDS Documents for items in our pit:
 *   [White Loctite(1)](../assets/msds/White Loctite(1).pdf)
 *   [epoxy105_MSDS](../assets/msds/epoxy105_MSDS.pdf)
 
-##### Measuring/Writing
+##### Writing and Markers
 
 *   [Washable Markers](../assets/msds/Washable Markers.pdf)
 *   [Sharpie](../assets/msds/Sharpie.PDF)
