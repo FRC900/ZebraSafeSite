@@ -16,9 +16,10 @@ layout: default
 
 * * *
 #### Fire Safety!
-We take fire safety seriously. As part of that, we have invested in an Element Fire Extinquisher. Element extinquishers put out all major classes of fire and never expire. 
+We take fire safety seriously. As part of that, we have invested in an Element Fire Extinquisher. [Element extinquishers](https://elementfire.com/) put out all major classes of fire and never expire. 
 
-https://elementfire.com/
-https://cdn.shopify.com/s/files/1/3001/3080/files/fireclasses_group_b9af3804-af9d-4168-8055-b90578755813_900x.png?v=1519166675
+[Element Fire Extinquishers](https://elementfire.com/) 
+[Types of Fire](https://cdn.shopify.com/s/files/1/3001/3080/files/fireclasses_group_b9af3804-af9d-4168-8055-b90578755813_900x.png?v=1519166675 "Logo Title Text 1")
+
 * * *
 
