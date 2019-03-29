@@ -12,13 +12,11 @@ layout: default
 
 #### MSDS Documents
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+The following are links to MSDS Documents for items in our pit:
 
 ##### Electrical
 
-*   This is an unordered list following a header.
+*   [Duracel Batteries](../assets/msds/Duracell Alkaline Battery.pdf)
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
