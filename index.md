@@ -15,11 +15,25 @@ layout: default
 ![#584298](https://placehold.it/15/584298/000000?text=+) Sustain - We train new members to sustain our efforts.
 
 * * *
+#### Be Proactive
+We do our best to take a proactive aproach to safety! 
+* Safety glasses are kept close at hand to supply both the team and visitors
+* Hair ties are easily accessible for anyone with long hair
+* We shout "Enabled" before enabling the robot and ensure everyone nearby knows to robot may move
+
+
+* * *
 #### Fire Safety!
 We take fire safety seriously. As part of that, we have invested in an Element Fire Extinquisher. [Element extinquishers](https://elementfire.com/) put out all major classes of fire and never expire. 
 
-[Element Fire Extinquishers](https://elementfire.com/) 
-![Types of Fire](https://cdn.shopify.com/s/files/1/3001/3080/files/fireclasses_group_b9af3804-af9d-4168-8055-b90578755813_900x.png?v=1519166675)
+https://elementfire.com/
+![Types of Fire](assets/images/fire.png)
+
+
+* * *
+#### First Aid
+All members are told to download the Red Cross First Aid app. 
+We keep a supply of Nitrile non-latex gloves in sizes ranging from S-L to accomodate all students. 
 
 * * *
 
