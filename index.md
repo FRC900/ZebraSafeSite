@@ -34,7 +34,7 @@ layout: default
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Measuring//Writing
+##### Measuring/Writing
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
