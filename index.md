@@ -24,7 +24,7 @@ We do our best to take a proactive aproach to safety!
 
 * * *
 #### Fire Safety!
-We take fire safety seriously. As part of that, we have invested in an Element Fire Extinquisher. [Element extinquishers](https://elementfire.com/) put out all major classes of fire and never expire. 
+We take fire safety seriously. As part of that, we have invested in an Element Fire Extinquisher. Element extinquishers put out all major classes of fire and never expire. 
 
 https://elementfire.com/
 ![Types of Fire](assets/images/fire.png)
