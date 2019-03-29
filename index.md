@@ -37,6 +37,7 @@ All members are told to download the Red Cross First Aid app and our mentors hav
 Our First-Aid stock includes
 * Bandaids (Misc. sizes)
 * Anti-Septic Gel
+* Nitrile non-latex gloves (S-L)
 * CPR Rescue Mask
 * Wet Wipes
 * Gloves
