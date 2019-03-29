@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Our Pit is a 5S Zone!
+#### Our Lab and Pit 5S Zones!
 
 ![#eb202d](https://placehold.it/15/eb202d/000000?text=+) Sort - Organization is key in our pit and in our lab.
 
