@@ -6,4 +6,4 @@ layout: default
 
 We share our lab with 4 FLL teams and 2 FTC teams. We take this opportunity to share with them about safety! 
 
-Videos curtesy of UL and Disney. !()
+ ![Videos curtesy of UL and Disney.](assets/images/safety.jpg)
