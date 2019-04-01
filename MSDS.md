@@ -61,7 +61,7 @@ The following are links to MSDS Documents for items in our pit:
 ##### First Aid Supplies
 
 *   [Advil](../assets/msds/Advil.PDF)
-*   [Bynadryl](../assets/msds/Bynadryl.pdf)
+*   [Benadryl](../assets/msds/Bynadryl.pdf)
 *   [Lens Cleaner](../assets/msds/Lens Cleaner.pdf)
 
 * * *
