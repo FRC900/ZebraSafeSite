@@ -19,7 +19,7 @@ The following are links to MSDS Documents for items in our pit:
 
 *   [Acetone](../assets/msds/Acetone.PDF)
 *   [Leak Detector](../assets/msds/Leak Detector.pdf)
-*   [isopropanol_MSDS](../assets/msds/isopropanol_MSDS.pdf)
+*   [Isopropanol MSDS](../assets/msds/isopropanol_MSDS.pdf)
 *   [Teflon Dry Lube](../assets/msds/Teflon Dry Lube.pdf)
 *   [Teflon Advanced MSDS](../assets/msds/Teflon Advanced MSDS.pdf)
 
