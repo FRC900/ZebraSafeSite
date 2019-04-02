@@ -70,5 +70,6 @@ The following are links to MSDS Documents for items in our pit:
 #### Other stuff
 
 *   [Element Fire Extinquisher](../assets/msds/ElementMSDS.pdf)
-*   [water](../assets/msds/water.pdf)
+*   [PLA Filament](../assets/msds/Polylactide_filament.pdf)
+*   [Water](../assets/msds/water.pdf)
 
