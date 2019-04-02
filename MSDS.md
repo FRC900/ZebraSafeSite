@@ -68,3 +68,5 @@ The following are links to MSDS Documents for items in our pit:
 
 #### Other stuff
 
+*   [Element Fire Extinquisher](../assets/msds/ElementMSDS.pdf)
+
