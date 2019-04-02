@@ -11,6 +11,7 @@ The following are links to MSDS Documents for items in our pit:
 
 *   [Duracel Batteries](../assets/msds/Duracell Alkaline Battery.pdf)
 *   [12v Li-ion Battery](../assets/msds/12v Li-ion Battery.pdf)
+*   [iPad and iPhone](../assets/msds/apple_msds.pdf)
 *   [Dry Cell Lead Acid Battery](../assets/msds/Dry Cell Lead Acid Battery.pdf)
 *   [Energizer Alkaline Battery](../assets/msds/Energizer Alkaline Battery.pdf)
 *   [Solder](../assets/msds/Solder.pdf)
@@ -19,7 +20,7 @@ The following are links to MSDS Documents for items in our pit:
 
 *   [Acetone](../assets/msds/Acetone.PDF)
 *   [Leak Detector](../assets/msds/Leak Detector.pdf)
-*   [Isopropanol MSDS](../assets/msds/isopropanol_MSDS.pdf)
+*   [Isopropyl Alcohol MSDS](../assets/msds/isopropanol_MSDS.pdf)
 *   [Teflon Dry Lube](../assets/msds/Teflon Dry Lube.pdf)
 *   [Teflon Advanced MSDS](../assets/msds/Teflon Advanced MSDS.pdf)
 
