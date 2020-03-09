@@ -1,8 +1,13 @@
-  ---
+---
 layout: default
 ---
 
-## Pneumatics Datasheets
+
+#### Pneumatics Documentation
+
+Given the possibility of safety issues with pneumatics, we include links to all of the datasheets for the parts we are using here to help mitigate any concerns and reduce risks.
+
+#####  Pneumatics Datasheets
 
 *   [Blanking Plug](../assets/pneumatics/Blanking Plug (3568).pdf)
 *   [Cables (566655).pdf](../assets/pneumatics/Cables (566655).pdf)
